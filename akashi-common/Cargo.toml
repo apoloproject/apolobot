@@ -1,0 +1,14 @@
+[package]
+name = "akashi-common"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+regex = "1.10.5"
+akashi-cache = { path = "../akashi-cache" }
+akashi-img = { path = "../akashi-img" }
+sysinfo = { workspace = true }
+reqwest = { workspace = true }
+poise = { workspace = true }
+serde = { workspace = true }
+dashmap = { workspace = true }

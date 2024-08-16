@@ -1,0 +1,12 @@
+[package]
+name = "akashi-core"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+poise = { workspace = true }
+tokio = { workspace = true }
+dotenvy = { workspace = true }
+akashi-common = { path = "../akashi-common" }
+akashi-commands = { path = "../akashi-commands" }
+

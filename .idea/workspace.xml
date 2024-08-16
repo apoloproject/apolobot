@@ -1,0 +1,432 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="ALL" />
+  </component>
+  <component name="CargoProjects">
+    <cargoProject FILE="$PROJECT_DIR$/Cargo.toml" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8bec669f-3fe0-438c-88f5-01a8a3d72ceb" name="Changes" comment="fix: make images RGBA on rembg" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Rust File" />
+      </list>
+    </option>
+  </component>
+  <component name="FormatOnSaveOptions">
+    <option name="myRunOnSave" value="true" />
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="simxnet &lt;95551108+simxnet@users.noreply.github.com&gt;" />
+      </list>
+    </option>
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="SIGN_OFF_COMMIT" value="true" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;simxnet&quot;
+  }
+}</component>
+  <component name="GithubProjectSettings">
+    <option name="branchProtectionPatterns">
+      <list>
+        <option value="main" />
+      </list>
+    </option>
+  </component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/akashibot/akashi&quot;,
+    &quot;accountId&quot;: &quot;6bc7dfab-c061-4f20-95ad-18938ea8247f&quot;
+  }
+}</component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$USER_HOME$/.cargo/registry/src/index.crates.io-6f17d22bba15001f/image-0.25.1/src/imageops/sample.rs" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/commands/src/image/invert.rs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/common/src/framework/events.rs" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="MacroExpansionManager">
+    <option name="directoryName" value="whsgnhtp" />
+  </component>
+  <component name="OptimizeOnSaveOptions">
+    <option name="myRunOnSave" value="true" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="2is8GntsHx57Y1mUBhm4hT4zakM" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;Cargo.API (debug).executor&quot;: &quot;Run&quot;,
+    &quot;Cargo.All (debug).executor&quot;: &quot;Run&quot;,
+    &quot;Cargo.Bot (debug).executor&quot;: &quot;Run&quot;,
+    &quot;Cargo.Bot (release).executor&quot;: &quot;Run&quot;,
+    &quot;Cargo.Run bot (release).executor&quot;: &quot;Run&quot;,
+    &quot;Cargo.Run bot.executor&quot;: &quot;Run&quot;,
+    &quot;Cargo.Run.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.rust.reset.selective.auto.import&quot;: &quot;true&quot;,
+    &quot;code.cleanup.on.save&quot;: &quot;true&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/akashi-2&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;org.rust.cargo.project.model.PROJECT_DISCOVERY&quot;: &quot;true&quot;,
+    &quot;org.rust.cargo.project.model.impl.CargoExternalSystemProjectAware.subscribe.first.balloon&quot;: &quot;&quot;,
+    &quot;org.rust.disableDetachedFileInspectionC:/Users/rsark/OneDrive/Documentos/Projects/akashi/bot/common/src/strings/encode.rs&quot;: &quot;true&quot;,
+    &quot;org.rust.disableDetachedFileInspectionC:/Users/rsark/OneDrive/Documentos/Projects/akashi/rust/common/src/framework/akashi.rs&quot;: &quot;true&quot;,
+    &quot;org.rust.disableDetachedFileInspectionC:/Users/rsark/OneDrive/Documentos/Projects/akashi/rust/common/src/markdown.rs&quot;: &quot;true&quot;,
+    &quot;org.rust.first.attach.projects&quot;: &quot;true&quot;,
+    &quot;org.rust.hideNoCargoProjectNotificationsC:/Users/rsark/OneDrive/Documentos/Projects/akashi/bot/akashi-commands/Cargo.toml&quot;: &quot;true&quot;,
+    &quot;rearrange.code.on.save&quot;: &quot;true&quot;,
+    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\rsark\OneDrive\Documentos\Projects\akashi\akashi\akashi-api\src\routes" />
+      <recent name="C:\Users\rsark\OneDrive\Documentos\Projects\akashi\bot\akashi-commands" />
+      <recent name="C:\Users\rsark\OneDrive\Documentos\Projects\akashi\bot\akashi-common" />
+      <recent name="C:\Users\rsark\OneDrive\Documentos\Projects\akashi\bot\commands\src\image" />
+      <recent name="C:\Users\rsark\OneDrive\Documentos\Projects\akashi\rust\commands\src\image" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\rsark\OneDrive\Documentos\Projects\akashi\bot\common\src\discord" />
+      <recent name="C:\Users\rsark\OneDrive\Documentos\Projects\akashi\rust\commands\src\assets" />
+    </key>
+  </component>
+  <component name="RsExternalLinterProjectSettings">
+    <option name="additionalArguments" value="--all -- -D warnings " />
+    <option name="tool" value="Clippy" />
+  </component>
+  <component name="RunManager" selected="Cargo.Bot (debug)">
+    <configuration name="API (debug)" type="CargoCommandRunConfiguration" factoryName="Cargo Command">
+      <option name="command" value="run --package akashi-api --bin akashi-api --all-features" />
+      <option name="workingDirectory" value="file://$PROJECT_DIR$" />
+      <envs />
+      <option name="emulateTerminal" value="true" />
+      <option name="channel" value="DEFAULT" />
+      <option name="requiredFeatures" value="true" />
+      <option name="allFeatures" value="true" />
+      <option name="withSudo" value="false" />
+      <option name="buildTarget" value="REMOTE" />
+      <option name="backtrace" value="SHORT" />
+      <option name="isRedirectInput" value="false" />
+      <option name="redirectInputPath" value="" />
+      <method v="2">
+        <option name="CARGO.BUILD_TASK_PROVIDER" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="API (release)" type="CargoCommandRunConfiguration" factoryName="Cargo Command">
+      <option name="command" value="run --package akashi-api --bin akashi-api --release" />
+      <option name="workingDirectory" value="file://$PROJECT_DIR$" />
+      <envs />
+      <option name="emulateTerminal" value="true" />
+      <option name="channel" value="DEFAULT" />
+      <option name="requiredFeatures" value="true" />
+      <option name="allFeatures" value="false" />
+      <option name="withSudo" value="false" />
+      <option name="buildTarget" value="REMOTE" />
+      <option name="backtrace" value="SHORT" />
+      <option name="isRedirectInput" value="false" />
+      <option name="redirectInputPath" value="" />
+      <method v="2">
+        <option name="CARGO.BUILD_TASK_PROVIDER" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Bot (debug)" type="CargoCommandRunConfiguration" factoryName="Cargo Command" temporary="true">
+      <option name="command" value="run --package akashi-core --bin akashi-core" />
+      <option name="workingDirectory" value="file://$PROJECT_DIR$" />
+      <envs />
+      <option name="emulateTerminal" value="true" />
+      <option name="channel" value="DEFAULT" />
+      <option name="requiredFeatures" value="true" />
+      <option name="allFeatures" value="false" />
+      <option name="withSudo" value="false" />
+      <option name="buildTarget" value="REMOTE" />
+      <option name="backtrace" value="SHORT" />
+      <option name="isRedirectInput" value="false" />
+      <option name="redirectInputPath" value="" />
+      <method v="2">
+        <option name="CARGO.BUILD_TASK_PROVIDER" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Bot (release)" type="CargoCommandRunConfiguration" factoryName="Cargo Command">
+      <option name="command" value="run --release --package akashi-core --bin akashi-core" />
+      <option name="workingDirectory" value="file://$PROJECT_DIR$" />
+      <envs />
+      <option name="emulateTerminal" value="true" />
+      <option name="channel" value="DEFAULT" />
+      <option name="requiredFeatures" value="true" />
+      <option name="allFeatures" value="false" />
+      <option name="withSudo" value="false" />
+      <option name="buildTarget" value="REMOTE" />
+      <option name="backtrace" value="SHORT" />
+      <option name="isRedirectInput" value="false" />
+      <option name="redirectInputPath" value="" />
+      <method v="2">
+        <option name="CARGO.BUILD_TASK_PROVIDER" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Cargo.API (debug)" />
+      <item itemvalue="Cargo.API (release)" />
+      <item itemvalue="Cargo.Bot (release)" />
+      <item itemvalue="Cargo.Bot (debug)" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Cargo.Bot (debug)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="RustProjectSettings">
+    <option name="toolchainHomeDirectory" value="$USER_HOME$/.cargo/bin" />
+  </component>
+  <component name="RustfmtProjectSettings">
+    <option name="channel" value="nightly" />
+    <option name="useRustfmt" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8bec669f-3fe0-438c-88f5-01a8a3d72ceb" name="Changes" comment="" />
+      <created>1720267830547</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1720267830547</updated>
+      <workItem from="1720267831691" duration="4912000" />
+      <workItem from="1720273501346" duration="68000" />
+      <workItem from="1720273579993" duration="10142000" />
+      <workItem from="1720290979676" duration="1160000" />
+      <workItem from="1720292165018" duration="4679000" />
+      <workItem from="1720351699323" duration="4924000" />
+      <workItem from="1720365389249" duration="4173000" />
+      <workItem from="1720622209062" duration="2132000" />
+      <workItem from="1720638476821" duration="6154000" />
+      <workItem from="1720735089197" duration="3674000" />
+      <workItem from="1720738827432" duration="4862000" />
+      <workItem from="1720781287920" duration="795000" />
+      <workItem from="1720782765198" duration="206000" />
+      <workItem from="1720782980081" duration="1676000" />
+      <workItem from="1720787983795" duration="1679000" />
+      <workItem from="1720826748353" duration="87000" />
+      <workItem from="1720960052770" duration="99000" />
+      <workItem from="1720960226257" duration="15000" />
+      <workItem from="1720961068813" duration="18000" />
+      <workItem from="1720961723597" duration="492000" />
+      <workItem from="1721292788550" duration="34000" />
+      <workItem from="1721417962334" duration="1053000" />
+      <workItem from="1721419037546" duration="2766000" />
+      <workItem from="1721421940032" duration="787000" />
+      <workItem from="1721433980221" duration="2255000" />
+      <workItem from="1721477587165" duration="808000" />
+      <workItem from="1721479864784" duration="1683000" />
+      <workItem from="1721570950544" duration="2567000" />
+      <workItem from="1721575257435" duration="2141000" />
+      <workItem from="1721586568820" duration="1380000" />
+      <workItem from="1721596249484" duration="7716000" />
+      <workItem from="1721605653780" duration="842000" />
+      <workItem from="1721648323383" duration="48000" />
+      <workItem from="1721650565212" duration="1902000" />
+      <workItem from="1721669352693" duration="2750000" />
+      <workItem from="1721842151863" duration="3471000" />
+      <workItem from="1721846121780" duration="1000" />
+      <workItem from="1721854266618" duration="2213000" />
+      <workItem from="1721860233927" duration="2169000" />
+      <workItem from="1721926856101" duration="1131000" />
+      <workItem from="1721933255026" duration="2143000" />
+      <workItem from="1722014676218" duration="7205000" />
+      <workItem from="1722029673711" duration="257000" />
+      <workItem from="1722091277018" duration="136000" />
+      <workItem from="1722091426449" duration="1935000" />
+      <workItem from="1722126939999" duration="5138000" />
+      <workItem from="1722163396701" duration="13000" />
+      <workItem from="1722168912214" duration="4377000" />
+      <workItem from="1722178171949" duration="71000" />
+      <workItem from="1722620110174" duration="5534000" />
+      <workItem from="1722625714446" duration="162000" />
+      <workItem from="1722625886920" duration="817000" />
+      <workItem from="1722632841436" duration="3935000" />
+      <workItem from="1722655894223" duration="26000" />
+      <workItem from="1722656401955" duration="1732000" />
+      <workItem from="1722690873056" duration="4018000" />
+      <workItem from="1722720405173" duration="1319000" />
+      <workItem from="1722728807215" duration="259000" />
+      <workItem from="1722788212826" duration="3023000" />
+      <workItem from="1723018736557" duration="813000" />
+      <workItem from="1723019817153" duration="22000" />
+      <workItem from="1723070390307" duration="661000" />
+      <workItem from="1723071918404" duration="3694000" />
+      <workItem from="1723126196021" duration="6695000" />
+      <workItem from="1723210936469" duration="6332000" />
+      <workItem from="1723232776853" duration="5030000" />
+      <workItem from="1723753206825" duration="3254000" />
+      <workItem from="1723756766154" duration="2289000" />
+      <workItem from="1723759379872" duration="2025000" />
+      <workItem from="1723798824738" duration="653000" />
+      <workItem from="1723799598930" duration="655000" />
+      <workItem from="1723800747452" duration="77000" />
+      <workItem from="1723800832200" duration="160000" />
+      <workItem from="1723801043563" duration="2002000" />
+      <workItem from="1723803164423" duration="2658000" />
+    </task>
+    <task id="LOCAL-00001" summary="feat: rewrite">
+      <option name="closed" value="true" />
+      <created>1720783066892</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1720783066892</updated>
+    </task>
+    <task id="LOCAL-00002" summary="feat: better readme">
+      <option name="closed" value="true" />
+      <created>1720784311411</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1720784311411</updated>
+    </task>
+    <task id="LOCAL-00003" summary="feat: more commands">
+      <option name="closed" value="true" />
+      <created>1721587453664</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1721587453664</updated>
+    </task>
+    <task id="LOCAL-00004" summary="feat: guild count">
+      <option name="closed" value="true" />
+      <created>1721862223976</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1721862223976</updated>
+    </task>
+    <task id="LOCAL-00005" summary="feat: api stats &amp; use tokio in api">
+      <option name="closed" value="true" />
+      <created>1722693471070</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1722693471070</updated>
+    </task>
+    <task id="LOCAL-00006" summary="hotfix: error">
+      <option name="closed" value="true" />
+      <created>1722694301137</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1722694301137</updated>
+    </task>
+    <task id="LOCAL-00007" summary="fix: speech used wrong height idk">
+      <option name="closed" value="true" />
+      <created>1723019119704</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1723019119704</updated>
+    </task>
+    <task id="LOCAL-00008" summary="fix: caption failed when managing jpeg images idk">
+      <option name="closed" value="true" />
+      <created>1723235451021</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1723235451021</updated>
+    </task>
+    <task id="LOCAL-00009" summary="fix: use proxy_url instead of url">
+      <option name="closed" value="true" />
+      <created>1723236635897</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1723236635897</updated>
+    </task>
+    <task id="LOCAL-00010" summary="fix: make images RGBA on rembg">
+      <option name="closed" value="true" />
+      <created>1723237634641</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1723237634641</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName=".env" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_CLEANUP_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="CHECK_NEW_TODO" value="false" />
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/akashi-api" />
+    </ignored-roots>
+    <MESSAGE value="feat: rewrite" />
+    <MESSAGE value="feat: better readme" />
+    <MESSAGE value="chore: RustRover stuff" />
+    <MESSAGE value="feat: improvements and new structure I guess" />
+    <MESSAGE value="feat: more commands" />
+    <MESSAGE value="feat: api binary" />
+    <MESSAGE value="ci: fmt" />
+    <MESSAGE value="feat: better color type handling" />
+    <MESSAGE value="feat: idk atp" />
+    <MESSAGE value="feat: guild count" />
+    <MESSAGE value="feat: api stats &amp; use tokio in api" />
+    <MESSAGE value="hotfix: error" />
+    <MESSAGE value="fix: speech used wrong height idk" />
+    <MESSAGE value="fix: caption failed when managing jpeg images idk" />
+    <MESSAGE value="fix: use proxy_url instead of url" />
+    <MESSAGE value="fix: make images RGBA on rembg" />
+    <option name="LAST_COMMIT_MESSAGE" value="fix: make images RGBA on rembg" />
+    <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
+  </component>
+</project>

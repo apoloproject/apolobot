@@ -1,0 +1,9 @@
+[package]
+name = "akashi-cache"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+dashmap = { workspace = true }
+poise = { workspace = true }
+rustc-hash = "2.0.0"

@@ -1,0 +1,18 @@
+[workspace]
+members = ["akashi-core", "akashi-commands", "akashi-common", "akashi-api", "akashi-cache", "akashi-img"]
+resolver = "2"
+
+[profile.release]
+opt-level = "s"
+lto = true
+codegen-units = 1
+
+[workspace.dependencies]
+dotenvy = "0.15.7"
+anyhow = "1.0.86"
+sysinfo = { version = "0.31.2", features = ["multithread"] }
+poise = { git = "https://github.com/serenity-rs/poise.git", branch = "next" }
+tokio = { version = "1.38.0", features = ["rt-multi-thread"] }
+serde = { version = "1.0", features = ["derive"] }
+reqwest = { version = "0.12.5", features = ["json", "blocking"] }
+dashmap = "6.0.1"

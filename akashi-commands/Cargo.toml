@@ -1,0 +1,12 @@
+[package]
+name = "akashi-commands"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+poise = { workspace = true }
+sysinfo = { workspace = true }
+serde = { workspace = true }
+dashmap = { workspace = true }
+akashi-common = { path = "../akashi-common" }
+akashi-img = { path = "../akashi-img" }
